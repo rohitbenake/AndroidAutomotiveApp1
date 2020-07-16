@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TryApp1</string>
+    <string name="car_speed_text">Current Car Speed : %s</string>
+</resources>
